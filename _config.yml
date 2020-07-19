@@ -8,7 +8,7 @@ title:            "#TIL"
 tagline:          'Today I Learnt!'
 description:      'Today I Learnt!'
 url:              https://fongandrew.github.io
-baseurl:          'til'
+baseurl:          '/til'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
