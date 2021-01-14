@@ -25,4 +25,4 @@ ORDER BY
 {% endhighlight %}
 
 Output : 
-![db-space](/assets/sql-queries-output/db-space.png)
+![db-space-output](/til/assets/sql-queries-output/db-space.png)
