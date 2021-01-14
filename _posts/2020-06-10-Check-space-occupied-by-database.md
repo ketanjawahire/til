@@ -6,14 +6,13 @@ tags:
     - SQL Server Queries
 ---
 
-**Objective** <br>
+### Objective
 Get information on space occupied by the given database.
 
 <!--more-->
-
 <br>
 
-**Query**
+### Query
 {% highlight sql %}
 SELECT 
 	RTRIM([name]) AS [Segment Name], 
@@ -31,5 +30,10 @@ ORDER BY
 
 <br>
 
-**Output** <br>
+### Output
 ![db-space-output](/til/assets/sql-queries-output/db-space.png)
+
+<br>
+
+## Reference Links
+- [sys.sysfiles](https://docs.microsoft.com/en-us/sql/relational-databases/system-compatibility-views/sys-sysfiles-transact-sql)
