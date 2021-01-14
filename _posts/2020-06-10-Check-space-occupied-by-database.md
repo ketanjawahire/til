@@ -6,9 +6,14 @@ tags:
     - SQL Server Queries
 ---
 
-Objective : Get information on space occupied by the given database.
+**Objective**
+Get information on space occupied by the given database.
 
-Query : 
+<!--more-->
+
+<br>
+
+**Query** 
 {% highlight sql %}
 SELECT 
 	RTRIM([name]) AS [Segment Name], 
@@ -24,5 +29,7 @@ ORDER BY
 	[groupid] DESC	
 {% endhighlight %}
 
-Output : 
+<br>
+
+**Output**
 ![db-space-output](/til/assets/sql-queries-output/db-space.png)
