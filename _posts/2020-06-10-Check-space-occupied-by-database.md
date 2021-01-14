@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Check space occupied by database"
+title: "SQL Query : Check space occupied by database"
 excerpt_separator: "<!--more-->"
 tags: 
     - SQL Server Queries
