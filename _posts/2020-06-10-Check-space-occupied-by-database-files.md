@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "SQL Query : Check space occupied by database"
+title: "SQL Query : Check space occupied by database files"
 excerpt_separator: "<!--more-->"
 tags: 
     - SQL Server Queries
 ---
 
 ### Objective
-Get information on space occupied by the given database.
+Get information on space occupied by the given database files.
 
 <!--more-->
 <br>
